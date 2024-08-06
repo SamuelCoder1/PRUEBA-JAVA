@@ -481,5 +481,7 @@ public class Main {
             }
         }
         while (!optionManage.equals("5"));
+
+        JOptionPane.showMessageDialog(null,"Thanks for use RIWI ACADEMY");
     }
 }
