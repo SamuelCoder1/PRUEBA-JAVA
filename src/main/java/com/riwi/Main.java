@@ -167,7 +167,7 @@ public class Main {
                             }
                             case "5" -> {
 
-                                //SE REALIZA UNA VARIABLE NULA QUE NOS DA LA OPCION PARA LEER TODOO O LEER TODO POR ESTADO
+                                //SE REALIZA UNA VARIABLE NULA QUE NOS DA LA OPCION PARA LEER TODOO O LEER TODOO POR ESTADO
                                 String optionReadAll;
 
                                 do {
